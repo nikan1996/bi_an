@@ -1,0 +1,5 @@
+﻿username：*****@**.com
+password：**
+ID：-1
+num：-1
+interval：2
